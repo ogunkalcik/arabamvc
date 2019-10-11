@@ -34,6 +34,21 @@ namespace arabamvc.Controllers
             return View();
         }
 
+        public ActionResult UyeOl()
+        {
+
+            
+            return View();
+        }
+
+        public ActionResult GirisYap()
+        {
+
+
+            return View();
+        }
+
+
 
     }
 }
